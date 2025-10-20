@@ -1,6 +1,4 @@
-#Twitter : @Crypto0xDev 
-#Telegram : https://t.me/Crypto0xdev
-#Gmail : crypto0xdev@gmail.com
+#Twitter : @Micu177
 
 A flashbot created for the crypto users to withdraw their funds whose wallet got compromised by Eth Sweeper bot
 ----------------------------------------------------------------------
@@ -9,7 +7,7 @@ A flashbot created for the crypto users to withdraw their funds whose wallet got
 
 
 <div align="center">
-  <a ><img src="https://globalfintechseries.com/wp-content/uploads/6.png" alt="IMAGE ALT TEXT"></a>
+  <a ></a>
 </div>
 
 
